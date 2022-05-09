@@ -1,0 +1,3 @@
+en:
+  site_settings:
+    discord_2fa_bypass: "Users that are allowed to skip Discourse 2FA if 2FA is enabled on their Discord account."

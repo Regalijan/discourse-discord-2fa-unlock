@@ -1,0 +1,10 @@
+plugins:
+  discord_2fa_bypass:
+    client: false
+    type: enum
+    default: "Everyone"
+    choices:
+      - "Everyone"
+      - "Everyone except admins"
+      - "Everyone except staff"
+      - "Nobody"
